@@ -1068,7 +1068,10 @@ margin-top: 3em;}
 	background-color: #113448;
 	text-align: center;
 }
-
+.footer img {
+	width: 100%;
+	
+}
 
 
 /*************************/
