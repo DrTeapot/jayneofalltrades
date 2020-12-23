@@ -1,2 +1,0 @@
-Google Place Id:  ChIJT2iZt2NDE4cRszvpOSa8-YQ
-Google Maps API key: AIzaSyCxIG6MDqYmip_T1wKHjER6fZJGhYjF7l0
